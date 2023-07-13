@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Colors */
+
+
+
+.light-gray{
+  color:hsl(220, 15%, 55%);
+}
+
+.blue-grey-bg{
+ background: hsl(212, 45%, 89%);
+}
+.blue-bg{
+  background:hsl(218, 44%, 22%);
+}
